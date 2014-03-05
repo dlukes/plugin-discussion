@@ -14,7 +14,7 @@ $lang['direction']  = 'ltr';
 // if set here, the plugin doesn't need to override the getMenuText() method
 $lang['menu']            = 'Moderovat diskusi'; 
 
-$lang['discussion']      = 'Diskuze';
+$lang['discussion']      = 'Otázky a odpovědi';
 $lang['comment']         = 'Komentář';
 $lang['comments']        = 'Komentáře';
 $lang['nocomments']      = 'Komentáře';
